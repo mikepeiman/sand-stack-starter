@@ -1,3 +1,5 @@
+Cloned and modified from https://github.com/vanbenj/sand-stack-starter
+
 # SANDstack Starter
 
 This project is a starter for building a SANDstack ([Sveltejs](https://svelte.dev/)/[Sapper](https://sapper.svelte.dev/), [Apollo GraphQL](https://www.apollographql.com/), [Neo4j Database](https://neo4j.com/neo4j-graph-database/)) application. There are two components to the starter, the UI application (a Svelte/Sapper app) and the API app (GraphQL server).
