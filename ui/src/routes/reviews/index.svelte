@@ -20,6 +20,10 @@
   ul {
     margin: 0 0 1em 0;
     line-height: 1.5;
+    list-style: none; 
+    padding: .5rem;
+    border-radius: .5rem;
+    background: rgba(55,155,100,0.25);
   }
 </style>
 
