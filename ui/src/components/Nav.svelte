@@ -78,5 +78,16 @@
         categories
       </a>
     </li>
+
+        <!-- for the categories link, we're using rel=prefetch so that Sapper prefetches
+		     the categories data when we hover over the link or tap it on a touchscreen -->
+    <li>
+      <a
+        rel="prefetch"
+        class={segment === 'lifeiq' ? 'selected' : ''}
+        href="lifeiq">
+        lifeiq
+      </a>
+    </li>
   </ul>
 </nav>
